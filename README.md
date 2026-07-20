@@ -1,5 +1,7 @@
-<img src="synthwave.jpg" alt="drawing" width="600"/>
-<img src="whoami.jpg" alt="drawing" width="400"/>
+<p align="center">
+  <img src="synthwave.jpg" alt="drawing" width="600"/>
+  <img src="whoami.jpg" alt="drawing" width="400"/>
+</p>
 ## I'm Seydou Mestre, Sofware Engeneering student at [42 Paris](https://42.fr/)
 <!--
 **Ceidoux/Ceidoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
