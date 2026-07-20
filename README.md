@@ -1,6 +1,6 @@
 ![](synth.jpg)
 
-## I'm Seydou Mestre, Sofware Engeneering student at [42 Paris](https://42.fr/)
+## I'm Seydou Mestre, Sofware Engeneering student at [42 Paris](https://42.fr/){:target="_blank"}
 <!--
 **Ceidoux/Ceidoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
