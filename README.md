@@ -1,4 +1,4 @@
-![](synth.jpg)
+![](synthwave.jpg)
 
 ## I'm Seydou Mestre, Sofware Engeneering student at [42 Paris](https://42.fr/)
 <!--
