@@ -1,6 +1,6 @@
 ## Greetings ! 
 
-  ![](Hello There !.png)
+  ![](Hello There !.jpg)
 
 ## I'm Seydou Mestre, Welcome to my Github page !
 <!--
