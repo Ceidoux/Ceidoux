@@ -1,6 +1,4 @@
-![](synthwave.jpg)
 <img src="synthwave.jpg" alt="drawing" width="800"/>
-![](whoami.jpg)
 <img src="whoami.jpg" alt="drawing" width="400"/>
 ## I'm Seydou Mestre, Sofware Engeneering student at [42 Paris](https://42.fr/)
 <!--
