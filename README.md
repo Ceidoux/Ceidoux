@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-  !(eff28ca0-74a7-4b22-a18c-3c87eaf58c88.jpg)
+  ![](eff28ca0-74a7-4b22-a18c-3c87eaf58c88.jpg)
 <!--
 **Ceidoux/Ceidoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
