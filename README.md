@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="whoami.jpg" alt="whoami" width="320"/>
+  <img src="whoami.jpg" alt="whoami" width="100%"/>
 </p>
 
 - 🔭 Currently building out **Inception-of-Things** — K3s/K3d clusters, Vagrant provisioning & GitOps with Argo CD
