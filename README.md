@@ -54,6 +54,7 @@
         <img src="https://img.shields.io/badge/Web%20Security-FF2079?style=flat-square&logo=owasp&logoColor=white" /><br>
       </td>
     </tr>
+    <tr>
       <td width="50%">
         <b>🐚 Minishell</b> — Unix Shell From Scratch<br>
         A Bash-like shell built in C — parsing, pipes, redirections, builtins, and signal handling implemented without a shell library.<br>
@@ -66,8 +67,6 @@
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /><br>
         <a href="https://github.com/Ceidoux/IRC">Repo →</a>
       </td>
-    <tr>
-
     </tr>
   </table>
 </div>
