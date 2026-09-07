@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="synthwave.jpg" alt="banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:7b2ff7,100:ff2079&section=header&animation=fadeIn" width="100%"/>
 </p>
 
 <h1 align="center">
