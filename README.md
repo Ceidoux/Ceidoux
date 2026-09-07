@@ -29,13 +29,32 @@
         <a href="https://github.com/Ceidoux/Inception-of-Things">Repo →</a>
       </td>
       <td width="50%">
-        <b>💬 IRC</b> — Internet Relay Chat Server<br>
-        An RFC-compliant IRC server implemented from scratch in C++, handling multiple clients, channels, and operator commands over raw sockets.<br>
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /><br>
-        <a href="https://github.com/Ceidoux/IRC">Repo →</a>
+        <b>🧙🏻‍♂️ OverRide</b> — Binary Exploitation & Reverse Engineering<br>
+        A 42 cybersecurity CTF focused on exploiting ELF binaries, reverse engineering, vulnerability analysis, and binary manipulation across multiple challenges.<br>
+        <img src="https://img.shields.io/badge/Cybersecurity-7B2FF7?style=flat-square&logo=hackthebox&logoColor=white" />
+        <img src="https://img.shields.io/badge/GDB-000000?style=flat-square&logo=gnu&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ghidra-FF6600?style=flat-square&logoColor=white" /><br>
+        <a href="https://github.com/ArthurOberon/override">Repo →</a>
       </td>
     </tr>
     <tr>
+      <td width="50%">
+        <b>⛆ Rainfall</b> — Binary Exploitation & CTF<br>
+        A 42 cybersecurity CTF exploring binary exploitation, reverse engineering, vulnerability analysis, and techniques such as buffer overflows, format strings, GOT overwrites, and integer overflows.<br>
+        <img src="https://img.shields.io/badge/Cybersecurity-7B2FF7?style=flat-square&logo=hackthebox&logoColor=white" />
+        <img src="https://img.shields.io/badge/GDB-000000?style=flat-square&logo=gnu&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ghidra-FF6600?style=flat-square&logoColor=white" /><br>
+        <a href="https://github.com/ArthurOberon/rainfall">Repo →</a>
+      </td>
+      <td width="50%">
+        <b>❄️ SnowCrash</b> — Web Security & Exploitation<br>
+        A 42 cybersecurity CTF focused on web vulnerabilities, privilege escalation, authentication flaws, and exploiting common security weaknesses across multiple challenges.<br>
+        <img src="https://img.shields.io/badge/Cybersecurity-7B2FF7?style=flat-square&logo=hackthebox&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Web%20Security-FF2079?style=flat-square&logo=owasp&logoColor=white" /><br>
+        <a href="https://github.com/ArthurOberon/snowcrash">Repo →</a>
+      </td>
+    </tr>
       <td width="50%">
         <b>🐚 Minishell</b> — Unix Shell From Scratch<br>
         A Bash-like shell built in C — parsing, pipes, redirections, builtins, and signal handling implemented without a shell library.<br>
@@ -43,11 +62,13 @@
         <a href="https://github.com/Ceidoux/Minishell">Repo →</a>
       </td>
       <td width="50%">
-        <b>🐍 Django-Learning</b> — Django Fundamentals<br>
-        First steps with Django, laid down as groundwork ahead of the 42 Transcendence project.<br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /><br>
-        <a href="https://github.com/Ceidoux/Django-Learning">Repo →</a>
+        <b>💬 IRC</b> — Internet Relay Chat Server<br>
+        An RFC-compliant IRC server implemented from scratch in C++, handling multiple clients, channels, and operator commands over raw sockets.<br>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /><br>
+        <a href="https://github.com/Ceidoux/IRC">Repo →</a>
       </td>
+    <tr>
+
     </tr>
   </table>
 </div>
