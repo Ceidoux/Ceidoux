@@ -78,7 +78,7 @@ C/C++, low-level systems programming, 42 Paris life
     <tr>
       <td align="center" width="50%">
         <b>🐳 DevOps & Tools</b><br><br>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,vagrant,git,github&perline=10" />
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github&perline=10" />
       </td>
       <td align="center" width="50%">
         <b>🖥️ Systems</b><br><br>
@@ -86,11 +86,4 @@ C/C++, low-level systems programming, 42 Paris life
       </td>
     </tr>
   </table>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ceidoux&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceidoux&layout=compact&theme=synthwave&hide_border=true" />
 </div>
