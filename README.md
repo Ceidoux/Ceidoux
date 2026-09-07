@@ -52,7 +52,6 @@
         <img src="https://img.shields.io/badge/Cybersecurity-7B2FF7?style=flat-square&logo=hackthebox&logoColor=white" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
         <img src="https://img.shields.io/badge/Web%20Security-FF2079?style=flat-square&logo=owasp&logoColor=white" /><br>
-        <a href="https://github.com/ArthurOberon/snowcrash">Repo →</a>
       </td>
     </tr>
       <td width="50%">
